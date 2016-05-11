@@ -1,0 +1,56 @@
+@import url(https://fonts.googleapis.com/css?family=EB+Garamond);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300);
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans:400,100);
+
+h1 {
+	color: rgb(0,0,0);
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 45px;
+	margin-bottom: 5px;
+}
+body {
+	background-image: url("../images/bg_website_background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+	color: #000;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+h2 {
+	margin-bottom: 10px;
+	font-family: 'Josefin Sans', sans-serif;
+	color: rgb(100,100,100);
+	margin-top: 40px;
+}
+
+h3{ 
+	font-family: 'Lato', sans-serif;
+	font-size: 15px;
+	margin-bottom: 10px;
+	 }
+
+h4 {
+	font-family: 'Lato', sans-serif;
+	color: rgb(0,0,0);
+	font-size: 30px;
+	font-style: normal;
+	font-kerning: 5px;
+	margin-top: 10px;
+	margin-bottom: 50px;
+}
+
+p{
+	font-family: 'EB Garamond', serif;
+	font-size: 18px;
+	font-style: normal;
+	color: rgb(100,100,100);
+	margin-bottom: 10px;
+	margin-top: 10px;
+
+	}
+
+img {
+	margin-top: 100px
+}
+
